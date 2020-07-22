@@ -18,6 +18,7 @@ return [
                 ],
             ],
         ],
+        /*
         'migrations_configuration' => [
             'orm_default' => [
                 'migrations_paths' => [
@@ -25,5 +26,6 @@ return [
                 ],
             ],
         ],
+        */
     ],
 ];
